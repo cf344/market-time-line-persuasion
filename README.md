@@ -2,13 +2,13 @@
 # Brand Archetypes, Design, and methods of Persuasion
 
 ## Project Guidelines
-#-All group members must follow the project template when creating their assigned Markdown files. 
+##-All group members must follow the project template when creating their assigned Markdown files. 
 #-Each topic must be completed in a separate Markdown file. 
 
 ## Archetypes 1-12 
 #-12 types Assignes to Mishal
 #-Each archetype has a definition, imagery, color scheme
-#1)The Hero
+##1)The Hero
 #2)The Magician
 #3)The Explorer
 #4)The Outlaw
