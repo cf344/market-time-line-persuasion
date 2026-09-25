@@ -5,7 +5,7 @@
 ##-All group members must follow the project template when creating their assigned Markdown files. 
 #-Each topic must be completed in a separate Markdown file. 
 
-## Archetypes 1-12 
+## Archetypes 1-12 ~Mishal
 #-12 types Assignes to Mishal
 #-Each archetype has a definition, imagery, color scheme
 ##1)The Hero
@@ -20,7 +20,7 @@
 #10)The Lover
 #11)The Jester
 #12)The Ruler
-## Methods of Persuasion 1-7 
+## Methods of Persuasion 1-7 ~Clara
 #-7 methods Assigned to Clara
 #-Each method has a definition, imagery, color scheme
 #1)Reciprocity
@@ -30,7 +30,7 @@
 #5)Liking
 #6)Scarcity
 #7)Unity
-## Modernism 
+## Modernism ~Aryanna
 #-Modernism Assigned to Aryanna
 #1)Definition 
 #2)History and origins
@@ -44,7 +44,7 @@
 #3)Main Characteristics
 #4)Common colors, shapes, and imagery
 #5)References
-## Design Styles within modernism and postmodernism 
+## Design Styles within modernism and postmodernism ~Tas
 #-Designs of post and modernism Assigned to Tas
 #-Different designs of modernism and postmodernism with what each represents
 #-Research 6 modernist and 6 postmodernist design movements.
