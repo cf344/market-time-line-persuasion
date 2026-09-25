@@ -4,8 +4,6 @@
 ## Project Guidelines
 -All group members must follow the project template when creating their assigned Markdown files. 
 -Each topic must be completed in a separate Markdown file. 
--click here to view the project template: 
-
 
 ## Archetypes 1-12 
 -12 types Assignes to Mishal
