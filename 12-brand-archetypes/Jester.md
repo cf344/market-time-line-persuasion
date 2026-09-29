@@ -12,7 +12,7 @@ The Jester archetype represents humor, playfulness, and enjoying the present mom
 - Often surprises people with wit or silliness.
 
 ## 3. Imagery
-![Jester archetype](../images/jester.jpeg)
+![Jester archetype](../images/Jester.jpeg)
 Bright scenes, playful characters, jokes, or people laughing can represent the Jester. These visuals help communicate fun, humor, and spontaneity.
 
 ## 4. Color Scheme

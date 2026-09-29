@@ -12,7 +12,7 @@ The Innocent archetype represents optimism, honesty, and a wish for simple happi
 - Focuses on happiness and straightforward experiences.
 
 ## 3. Imagery
-![Innocent archetype](../images/innocent.jpeg)
+![Innocent archetype](../images/Innocent.jpeg)
 Sunlight, open skies, simple patterns, or people enjoying everyday moments can represent the Innocent. These visuals suggest warmth, hope, and uncomplicated happiness.
 
 ## 4. Color Scheme

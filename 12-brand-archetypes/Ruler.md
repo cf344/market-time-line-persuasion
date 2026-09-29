@@ -12,7 +12,7 @@ The Ruler archetype represents leadership, responsibility, and a desire for orde
 - Often emphasizes quality and high standards.
 
 ## 3. Imagery
-![Ruler archetype](../images/ruler.jpeg)
+![Ruler archetype](../images/Ruler.jpeg)
 Formal settings, carefully arranged spaces, crowns, or symbols of leadership can represent the Ruler. These visuals suggest order, status, and control.
 
 ## 4. Color Scheme

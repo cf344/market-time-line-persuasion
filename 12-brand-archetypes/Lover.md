@@ -12,7 +12,7 @@ The Lover archetype represents affection, closeness, beauty, and meaningful rela
 - Focuses on emotional connection.
 
 ## 3. Imagery
-![Lover archetype](../images/lover.jpeg)
+![Lover archetype](../images/Lover.jpeg)
 Flowers, shared meals, close relationships, or carefully styled products can represent the Lover. These images suggest affection, beauty, and attention to personal connection.
 
 ## 4. Color Scheme
