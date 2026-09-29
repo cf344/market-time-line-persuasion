@@ -12,7 +12,7 @@ The Outlaw archetype represents rebellion against rules or traditions that feel 
 - Appeals to people who want change.
 
 ## 3. Imagery
-![Outlaw archetype](../images/outlaw.jpeg)
+![Outlaw archetype](../images/Outlaw.jpeg)
 Images of open roads, worn textures, bold symbols, or people breaking away from a crowd can represent the Outlaw. These visuals communicate nonconformity and independence.
 
 ## 4. Color Scheme

@@ -12,7 +12,7 @@ The Caregiver archetype represents compassion, protection, and helping others. C
 - Focuses on comfort and well-being.
 
 ## 3. Imagery
-![Caregiver archetype](../images/caregiver.jpeg)
+![Caregiver archetype](../images/Caregiver.jpeg)
 Images of caregivers helping people, families supporting one another, or hands offering help can represent the Caregiver. These visuals communicate compassion, safety, and support.
 
 ## 4. Color Scheme

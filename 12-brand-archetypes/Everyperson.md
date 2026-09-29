@@ -12,7 +12,7 @@ The Everyperson archetype represents belonging, equality, and being part of an e
 - Focuses on useful, everyday needs.
 
 ## 3. Imagery
-![Everyperson archetype](../images/everyperson.jpeg)
+![Everyperson archetype](../images/Everyperson.jpeg)
 Friends, families, neighbors, or people sharing an everyday activity can represent the Everyperson. These scenes show inclusion and familiar experiences.
 
 ## 4. Color Scheme
