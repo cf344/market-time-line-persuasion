@@ -1,4 +1,4 @@
-## 2. Sage
+##  Sage
 
 ### Matching Methods of Persuasion
 - **Authority**
