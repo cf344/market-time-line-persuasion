@@ -10,5 +10,5 @@ The Creator archetype focuses on imagination, originality, and bringing new idea
 LEGO fits the Creator archetype because it encourages people to build their own creations and continue creating with its products.
 
 ### Image Description
-![Example of outlaw](../images/creatormethod.png)
+![Example of Creator](../images/creatormethod.png)
 The image shows a person creating artwork in a studio surrounded by paintings, sketches, art supplies, and creative ideas. This represents the Creator archetype because it shows imagination, creativity, originality, and turning ideas into something real.
