@@ -18,3 +18,4 @@ A clothing brand could use the message:
 > "Made for people who were never meant to fit in."
 
 This mainly uses **Unity** because it makes customers feel like they belong to a group of people who are different from everyone else.
+![Example of outlaw](../images/OUTLAWmethod.png)
