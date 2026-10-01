@@ -15,3 +15,5 @@ The Sage archetype focuses on knowledge, truth, learning, and understanding. **A
 A technology company could offer a free guide explaining how artificial intelligence works before promoting its AI product.
 
 This uses **Reciprocity** because the company gives the customer useful information first. It also uses **Authority** by showing its knowledge and expertise.
+![Example of sage](../images/SAGEmethod.png) 
+Cialdini Institute – 7 Principles of Persuasion
