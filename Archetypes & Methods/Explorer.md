@@ -32,4 +32,4 @@ The image represents the Explorer's desire to **discover new places, experience 
 
 ## Image
 
-![Explorer Archetype](images/EXPLORERmethod.png)
+![Explorer Archetype](images/EXPLORERmethod.png.png)
