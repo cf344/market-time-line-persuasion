@@ -15,7 +15,9 @@ I later worked on connecting selected brand archetypes with different methods of
 - **Brand Archetypes** — Researched and created the 12 brand archetype Markdown pages.
 - **Archetypes & Methods of Persuasion** — Connected selected archetypes with persuasion principles and added examples and imagery.
 
-*GitHub issue links will be added here.*
+- [Complete Caregiver Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/12) — Completed; created the Caregiver archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Memphis Design.
+- - [Complete Creator Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/13) — Completed; created the Creator archetype content and added Modernist and Postmodernist hero designs using Bauhaus and New Wave Typography.
+  - - [Complete Everyperson Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/14) — Completed; created the Everyperson archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Punk Design.
 
 ## What I Learned
 
