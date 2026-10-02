@@ -32,5 +32,4 @@ The image represents the Hero's desire to **overcome challenges, become stronger
 
 ## Image
 
-![Hero Archetype](images/HEROmethod.png.png)
-
+![Hero Archetype](./images/HEROmethod.png.png)
