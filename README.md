@@ -19,4 +19,4 @@ This project explores brand archetypes, methods of persuasion, and modernist and
 | [Methods of Persuasion](7-methods-of-persuation/) | 7 persuasion pages with explanations and examples |
 | [Modernist Design](design-styles/) | 6 design-style pages with historical examples and sources |
 | [Postmodernist Design](design-styles/) | 6 design-style pages with historical examples and sources |
-| About the Team | One About page for each team member |
+| [About the Team](members/) | One About page for each team member |
