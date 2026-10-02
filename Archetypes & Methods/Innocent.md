@@ -32,4 +32,4 @@ The image represents the Innocent's desire for **peace, safety, simplicity, happ
 
 ## Image
 
-![Innocent Archetype](./images/INNOCENTmethod.png.png)
+![Example of innocent](../images/INNOCENTmethod.png.png)
