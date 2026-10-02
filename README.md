@@ -90,5 +90,30 @@ The project researches **6 modernist and 6 postmodernist design movements** and 
 6. Radical Design
 
 ## Team Contributions
+## Team Contributions
 
-This project was completed collaboratively by **Clara, Mishal, Aryanna, and Tas**. Each member contributed to the research, Markdown pages, images, design examples, and revisions throughout the project.
+### Clara — Team Leader
+- Managed and organized the team's GitHub workflow.
+- Reviewed and managed pull requests from team members.
+- Helped make sure completed work was properly merged into the main branch.
+- Helped coordinate the team's progress and project organization.
+
+### Mishal
+- Researched and created the 12 Brand Archetype Markdown pages.
+- Added definitions, characteristics, imagery, color schemes, real-world examples, and references for the archetypes.
+- Added and organized images for the archetype pages.
+- Connected selected archetypes with Methods of Persuasion.
+- Created additional archetype and persuasion examples for the project.
+- Helped revise and organize project content.
+
+### Aryanna
+- Researched Modernism and Postmodernism.
+- Created content explaining their definitions, history, origins, and main characteristics.
+- Researched common colors, shapes, imagery, and examples associated with Modernism and Postmodernism.
+- Added references to support the research.
+
+### Tas
+- Researched Modernist and Postmodernist design styles.
+- Worked on the six Modernist and six Postmodernist design movements.
+- Documented the characteristics and visual elements associated with the different design styles.
+- Added examples and research for the design-style section.
