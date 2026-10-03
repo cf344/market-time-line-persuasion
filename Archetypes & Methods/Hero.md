@@ -32,4 +32,4 @@ The image represents the Hero's desire to **overcome challenges, become stronger
 
 ## Image
 
-![Example of hero](../images/HEROmethod.png)
+![Example of hero](../images/HEROmethod.png.png)
