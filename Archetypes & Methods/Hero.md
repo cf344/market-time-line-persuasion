@@ -33,3 +33,4 @@ The image represents the Hero's desire to **overcome challenges, become stronger
 ## Image
 
 ![Example of hero](../images/HEROmethod.png.png)
+**Image generated with AI.**
