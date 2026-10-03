@@ -1,4 +1,4 @@
-https://github.com/cf344/market-time-line-persuasion/blob/1c2559347999dc88f8a9836186825e184f1087f5/Archetypes%20%26%20Methods/Sage.md## Clara Fesal
+## Clara Fesal
 [About the Team](README.md) · [Home](../README.md)
 
 ## About Me
@@ -12,6 +12,8 @@ I worked primarily worked on this project as the leader. I was started this assi
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
 - 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations.(https://github.com/cf344/market-time-line-persuasion/issues/1)
+- Created the Archetypes & Methods folder (https://github.com/cf344/market-time-line-persuasion/issues/9)
+
 - [Complete Outlaw Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/3352bfc53a902901e99aae46ac91b5589a08caf2/Archetypes%20%26%20Methods/Outlaw.md) — Completed; created the Outlaw archetype content.
 - [Complete Ruler Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/0fa44981f384ee3e6afd822829c6b9b121734fdd/Archetypes%20%26%20Methods/Ruler.md) — Completed; created the Ruler archetype content.
 - [Complete Ruler Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/303d18e644b507af73ad2c77dc33d735d27ca8ea/Archetypes%20%26%20Methods/Sage.md)Completed; created the Sage archetype content.
