@@ -7,11 +7,11 @@ I am a student at the New Jersey Institute of Technology studying Enterprise Art
 
 ## My Issues and Contributions
 
-I worked primarily on the Methods of Persuation section of the project. I researched and created the 7 Methods of Persuation pages, including their definitions, characteristics, imagery, color schemes, examples, and references. I also added and organized images for the methods pages.
+I worked primarily worked on this project as the leader. I was started this assignment with creating the GitHub repository and assigned everyone their job. I created the first branch and the first issue. I also worked on the 7 Methods of Persuasion section of the project. I researched and created the 7 Methods of Persuasion pages, including their definitions, characteristics, imagery, color schemes, examples, and references. I also added and organized images for the methods pages.
 
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
-Brand Archetypes — Researched and created the 12 brand archetype Markdown pages.
+- 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations.
 
 Archetypes & Methods of Persuasion — Connected selected archetypes with persuasion principles and added examples and imagery.
 
