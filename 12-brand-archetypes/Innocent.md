@@ -33,16 +33,16 @@ Coca-Cola is sometimes interpreted as an Innocent brand because much of its adve
 
 ### Example 1 — Modernist
 
-![Innocent Bauhaus design](../images/innocent-bauhaus.png) 
+![Innocent Constructivism design](../images/innocent-constructivism.png) 
 *Image generated with AI.*
 
 **Archetype:** Innocent  
-**Design Style:** Bauhaus  
+**Design Style:** Constructivism  
 **Persuasion Principle:** Liking  
 
-The Bauhaus style uses simple geometric shapes, clean layouts, and functional design to create a feeling of clarity and simplicity. The Innocent archetype is shown through the focus on happiness, trust, safety, and positive experiences, while liking is used by creating a friendly and approachable message that makes the viewer feel comfortable and connected. The simple design helps make the message feel welcoming, honest, and easy to understand.
+The Constructivism style uses bold geometric shapes, strong diagonal lines, limited colors, and dynamic compositions to create an energetic visual message. The Innocent archetype is shown through the focus on optimism, simplicity, and positive experiences, while liking is used by creating a friendly and approachable message that encourages the viewer to connect with the subject. The bold but simple design makes the message feel engaging while keeping the overall idea easy to understand.
 
-**Style Reference:** [Bauhaus](../design-styles/Bauhaus.md)
+**Style Reference:** [Constructivism](../design-styles/Constructivism.md)
 
 ### Example 2 — Postmodernist
 
