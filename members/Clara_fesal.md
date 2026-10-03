@@ -12,7 +12,7 @@ I worked primarily worked on this project as the leader. I was started this assi
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
 - 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations.(https://github.com/cf344/market-time-line-persuasion/issues/1)
-- Created the README page (README.md)
+- Created the README page ([README.md](https://github.com/cf344/market-time-line-persuasion/blob/9031ba3161e892f194a058a9c98578246020bb30/README.md))
 - Created the Archetypes & Methods folder (https://github.com/cf344/market-time-line-persuasion/issues/9)
 
 - [Complete Outlaw Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/3352bfc53a902901e99aae46ac91b5589a08caf2/Archetypes%20%26%20Methods/Outlaw.md) — Completed; created the Outlaw archetype content.
