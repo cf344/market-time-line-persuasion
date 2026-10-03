@@ -33,3 +33,4 @@ The image represents the Innocent's desire for **peace, safety, simplicity, happ
 ## Image
 
 ![Example of innocent](../images/INNOCENTmethod.png.png)
+**Image generated with AI.**
