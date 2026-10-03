@@ -33,3 +33,4 @@ The image represents the Explorer's desire to **discover new places, experience 
 ## Image
 
 ![Example of explorer](../images/EXPLORERmethod.png.png)
+**Image generated with AI.**
