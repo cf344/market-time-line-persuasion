@@ -29,6 +29,8 @@ These are suggested design choices, not fixed colors for the archetype.
 
 Nike is often associated with the Hero because its athletic branding focuses on effort, performance, and achieving goals.
 
+## Design Examples
+
 ### Example 1 — Modernist
 
 ![Hero Bauhaus design](../images/hero-bauhaus.png) 
