@@ -1,7 +1,7 @@
-Clara Fesal
-About the Team · Home
+## Clara Fesal
+# About the Team · Home
 
-About Me
+## About Me
 
 I am a student at the New Jersey Institute of Technology studying Enterprise Artificial Intelligence. I am interested in learning g new skills. I always like to learn more about technology and artificial intelligence. Through this project, I have been able to explore how branding and design can be connected with technology and methods of persuasion.
 
