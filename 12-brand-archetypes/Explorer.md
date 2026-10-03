@@ -34,6 +34,7 @@ Jeep is often associated with the Explorer because its vehicles are marketed for
 
 ![Explorer Deconstructionism design](../images/explorer-futurism.png) 
 *Image generated with AI.*
+
 **Archetype:** Explorer  
 **Design Style:** Futurism  
 **Persuasion Principle:** Scarcity  
@@ -46,6 +47,7 @@ The Deconstructionism style uses an unconventional layout, overlapping elements,
 
 ![Explorer Postmodernism design](../images/explorer-postmodern.png)  
 *Image generated with AI.*
+
 **Archetype:** Explorer  
 **Design Style:** Deconstructionism   
 **Persuasion Principle:** Scarcity  
