@@ -19,16 +19,11 @@ I later worked on connecting selected brand archetypes with different methods of
 - [Complete Ruler Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/0fa44981f384ee3e6afd822829c6b9b121734fdd/Archetypes%20%26%20Methods/Ruler.md) — Completed; created the Ruler archetype content.
 - [Complete Sage Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/blob/303d18e644b507af73ad2c77dc33d735d27ca8ea/Archetypes%20%26%20Methods/Sage.md)Completed; created the Sage archetype content.
 
-Archetypes & Methods of Persuasion — Connected selected archetypes with persuasion principles and added examples and imagery.
 
-Complete Caregiver Archetype Page and Design Examples — Completed; created the Caregiver archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Memphis Design.
+## What I Learned
 
-Complete Creator Archetype Page and Design Examples — Completed; created the Creator archetype content and added Modernist and Postmodernist hero designs using Bauhaus and New Wave Typography.
-Complete Everyperson Archetype Page and Design Examples — Completed; created the Everyperson archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Punk Design.
-What I Learned
+Through this project, I learned and improved my skills in using GitHub. I also improved my leadership skills and a team lead. Through this project, I learned how brand archetypes can influence the way a brand connects and communicates with its audience. I also learned how images, colors, design choices, and persuasion methods can all work together to deliver a certain message. This project also helped me become more comfortable working with GitHub as a team, especially when using branches, commits, pull requests, Markdown files, and image paths.
 
-Through this project, I learned how brand archetypes can affect the way a brand communicates with its audience. I also learned how imagery, colors, design styles, and methods of persuasion can work together to create a specific message. The project also gave me more experience working collaboratively with GitHub, including using branches, commits, pull requests, Markdown files, and image paths.
+## Credits
 
-Credits
-
-This project was completed with my team members Clara, Aryanna, and Tas. Clara served as the team leader and helped manage the GitHub workflow and pull requests, while the team worked together to organize and combine the different sections of the project.
+This project was completed with my team members Mishal, Aryanna, and Tas. I served as the team leader and helped manage the GitHub workflow and pull requests, while the team worked together to organize and combine the different sections of the project. Mishal completed all of her work on time and helped me to support other team members in solving their problems. Aryanna and Tas were able to follow the instructions and finish their assigned work. All of the team did a great job in following the instructions and finishing the assignment. 
