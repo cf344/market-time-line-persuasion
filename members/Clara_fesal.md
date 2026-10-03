@@ -1,12 +1,13 @@
 ## Clara Fesal
 [About the Team](README.md) · [Home](../README.md)
+
 ## About Me
 
-I am a student at the New Jersey Institute of Technology studying Enterprise Artificial Intelligence. I am interested in learning g new skills. I always like to learn more about technology and artificial intelligence. Through this project, I have been able to explore how branding and design can be connected with technology and methods of persuasion.
+I am a student at the New Jersey Institute of Technology studying Enterprise Artificial Intelligence. I am interested in learning g new skills. I always like to learn more about technology and artificial intelligence. Through this project, I have been able to learn new skills and how branding and design can be connected with technology and methods of persuasion.
 
-My Issues and Contributions
+## My Issues and Contributions
 
-I worked primarily on the Brand Archetypes section of the project. I researched and created the 12 brand archetype pages, including their definitions, characteristics, imagery, color schemes, examples, and references. I also added and organized images for the archetype pages.
+I worked primarily on the Methods of Persuation section of the project. I researched and created the 7 Methods of Persuation pages, including their definitions, characteristics, imagery, color schemes, examples, and references. I also added and organized images for the methods pages.
 
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
