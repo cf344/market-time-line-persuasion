@@ -12,6 +12,7 @@ I worked primarily worked on this project as the leader. I was started this assi
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
 - 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations.
+- 
 
 Archetypes & Methods of Persuasion — Connected selected archetypes with persuasion principles and added examples and imagery.
 
