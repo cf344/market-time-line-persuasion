@@ -8,5 +8,5 @@ Each team member contributed to the research, design, organization, and developm
 | --- | --- |
 | Clara | About page |
 | Mishal Khurshid | [About page](mishal_khurshid.md) |
-| Aryanna | About page |
+| Aryanna | [About page](aryanna_mason.md) |
 | Tas | About page |
