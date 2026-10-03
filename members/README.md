@@ -6,7 +6,7 @@ Each team member contributed to the research, design, organization, and developm
 
 | Student | About Page |
 | --- | --- |
-| Clara | About page | [About page](clara_fesal.md) |
+| Clara | About page | [About page](Clara_fesal.md) |
 | Mishal Khurshid | [About page](mishal_khurshid.md) |
 | Aryanna | [About page](aryanna_mason.md) |
 | Tas | About page |
