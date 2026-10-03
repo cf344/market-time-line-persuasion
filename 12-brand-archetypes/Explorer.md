@@ -45,7 +45,7 @@ The Deconstructionism style uses an unconventional layout, overlapping elements,
 
 ![Explorer Postmodernism design](../images/explorer-postmodern.png)  
 **Archetype:** Explorer  
-**Design Style:** Postmodernism  
+**Design Style:** Deconstructionism   
 **Persuasion Principle:** Scarcity  
 
 The Postmodernism style uses bold colors, unusual layouts, mixed typography, and unexpected visual elements to create a sense of exploration and individuality. The Explorer archetype is shown through the focus on discovering new experiences and looking beyond the familiar, while scarcity is used by presenting the experience as something rare or exclusive. The unconventional design encourages the viewer to look closer and discover something that feels unique.
