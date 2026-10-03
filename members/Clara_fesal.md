@@ -11,9 +11,8 @@ I worked primarily worked on this project as the leader. I was started this assi
 
 I later worked on connecting selected brand archetypes with different methods of persuasion and created additional examples showing how the two concepts can work together.
 
-- 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations. 7-methods-of-persuation. 7-methods-of-persuation/Social-Proof.md
-- 
-- [Complete Caregiver Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/12) — Completed; created the Caregiver archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Memphis Design.
+- 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations. 
+- [Complete Outlaw Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/12) — Completed; created the Caregiver archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Memphis Design.
 
 Archetypes & Methods of Persuasion — Connected selected archetypes with persuasion principles and added examples and imagery.
 
