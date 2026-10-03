@@ -13,6 +13,7 @@ I later worked on connecting selected brand archetypes with different methods of
 
 - 7 Methods of Persuasion — Researched and created the 7 Methods of Persuations.
 - 
+- [Complete Caregiver Archetype Page and Design Examples](https://github.com/cf344/market-time-line-persuasion/issues/12) — Completed; created the Caregiver archetype content and added Modernist and Postmodernist hero designs using Swiss Style and Memphis Design.
 
 Archetypes & Methods of Persuasion — Connected selected archetypes with persuasion principles and added examples and imagery.
 
